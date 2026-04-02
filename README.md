@@ -1,4 +1,4 @@
-# linked-list-ccpp
+# linked-list-cpp
 # Linked List Implementation in C++
 
 This project demonstrates a singly linked list implementation using C++.
