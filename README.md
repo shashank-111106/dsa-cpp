@@ -9,7 +9,7 @@ This project demonstrates a singly linked list implementation using C++.
 - Display linked list
 
 ## 🧠 Concepts Used
-- Vctors
+- Vectors
 - Dynamic Memory Allocation
 - Data Structures
 
