@@ -1,20 +1,27 @@
-# linked-list-cpp
-# Linked List Implementation in C++
+# Data Structures in C++
 
-This project demonstrates a singly linked list implementation using C++.
+This repository contains implementations of fundamental data structures using C++.
 
-## 🚀 Features
-- Insert node
-- Delete node
-- Display linked list
+## 🚀 Implementations
+
+### 1. Linked List
+- Insert node (push_front, push_back)
+- Delete node (pop_front, pop_back)
+- Traverse list (print list)
+
+### 2. Stack
+- Push operation
+- Pop operation
+- Display stack
 
 ## 🧠 Concepts Used
-- Vectors
+- Pointers
 - Dynamic Memory Allocation
 - Data Structures
 
-## 📂 File
-- linked_list.cpp
+## 📂 Files
+- linked_list.cpp → Linked List implementation
+- stack.cpp → Stack implementation
 
 ## 👨‍💻 Author
 Shashank
