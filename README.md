@@ -1,27 +1,61 @@
 # Data Structures in C++
 
-This repository contains implementations of fundamental data structures using C++.
+This repository contains my implementations of fundamental Data Structures in C++.
 
-## 🚀 Implementations
+## Repository Structure
 
-### 1. Linked List
-- Insert node (push_front, push_back)
-- Delete node (pop_front, pop_back)
-- Traverse list (print list)
+### Linked List
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
 
-### 2. Stack
-- Push operation
-- Pop operation
-- Display stack
+### Stack
+- Stack using Array
+- Stack using Linked List
 
-## 🧠 Concepts Used
-- Pointers
-- Dynamic Memory Allocation
-- Data Structures
+### Queue
+- Queue using Array
+- Queue using Linked List
+- Circular Queue
 
-## 📂 Files
-- linked_list.cpp → Linked List implementation
-- stack.cpp → Stack implementation
+### Trees
+- Binary Search Tree (BST)
 
-## 👨‍💻 Author
+## Technologies Used
+- C++
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms (DSA)
+
+## Purpose
+
+This repository is a part of my DSA learning journey.
+
+I am practicing:
+- Data Structure Implementations
+- Problem Solving
+- Interview Preparation
+- Competitive Programming Fundamentals
+
+## Current Topics Covered
+
+- Linked Lists
+- Stacks
+- Queues
+- Binary Search Trees
+
+## Upcoming Topics
+
+- Recursion
+- Sorting Algorithms
+- Searching Algorithms
+- Heaps
+- Hashing
+- Graphs
+- Dynamic Programming
+
+## Author
 Shashank
+
+
+---
+⭐ If you find this repository useful, feel free to star it.
